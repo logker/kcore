@@ -12,6 +12,8 @@ logker</code> It's a log Library of Golang. It's easy to use.👨‍💻‍</p>
 </p>
 
 ---
+##### The current warehouse is a copy~
+##### If you want to check the latest updates, please go to this warehouse [https://github.com/higker/logker](https://github.com/Higker/logker)
 
 ## Features
 
