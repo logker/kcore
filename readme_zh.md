@@ -13,6 +13,9 @@ logker</code> 是一个Golang小型简单易用的日志库.👨‍💻‍</p>
 
 ---
 
+##### 这个仓库是个副本 ~
+##### 获取最新新版本源代码的话请这个仓库🏃[https://github.com/higker/logker](https://github.com/Higker/logker)
+
 ## 特性&简介🌲
 
 - 支持文件自动备份。
